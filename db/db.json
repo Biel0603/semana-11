@@ -1,0 +1,53 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Melhor carnaval do Brasil",
+      "imagem": "img/download.jpeg",
+      "texto": "O Carnaval de Belo Horizonte se consolidou como um dos maiores e mais vibrantes do Brasil...",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 2,
+      "titulo": "Crescimento em números de foliões",
+      "imagem": "img/filhos da puc.webp",
+      "texto": "O Carnaval de Belo Horizonte cresceu exponencialmente nos últimos anos...",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 3,
+      "titulo": "A cidade mais bonita do país",
+      "imagem": "img/imagens de BH.jpeg",
+      "texto": "Belo Horizonte encanta com suas montanhas ao horizonte...",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 4,
+      "titulo": "Aumento da economia da cidade",
+      "imagem": "img/images.webp",
+      "texto": "O aumento do público reforça a importância do evento para a cultura e economia local.",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 5,
+      "titulo": "Reforço do policiamento na cidade",
+      "imagem": "img/policia bh.jpeg",
+      "texto": "Com o crescimento do Carnaval de BH, o policiamento tem sido reforçado...",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 6,
+      "titulo": "A folia que encanta o país",
+      "imagem": "img/imagens 5.jpeg",
+      "texto": "A Praça Sete se transforma em um grande reduto de foliões durante o Carnaval...",
+      "data": "22/04/2024",
+      "categoria": "Carnaval de Rua"
+    }
+  ]
+}
+
