@@ -47,7 +47,22 @@
       "texto": "A Praça Sete se transforma em um grande reduto de foliões durante o Carnaval...",
       "data": "22/04/2024",
       "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 7,
+      "titulo": "Novidades para o próximo Carnaval",
+      "imagem": "img/imagens do carnaval 2,0.jpeg",
+      "texto": "O próximo Carnaval promete muitas novidades e atrações incríveis para todos os foliões.",
+      "data": "10/01/2025",
+      "categoria": "Carnaval de Rua"
+    },
+    {
+      "id": 8,
+      "titulo": "Segurança reforçada nas principais avenidas",
+      "imagem": "img/ouo.jpeg",
+      "texto": "Autoridades anunciam reforço na segurança para garantir a tranquilidade dos participantes.",
+      "data": "15/02/2025",
+      "categoria": "Segurança"
     }
   ]
 }
-

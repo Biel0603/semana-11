@@ -1,22 +1,36 @@
-# Trabalho Prático - Semana 11
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19561999)
 
-Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenvolvimento mais completo, típico de equipes profissionais. Nesse processo, vamos utilizar um **servidor backend simulado** com o **JSON Server** baseado em APIs RESTful. Um arquivo JSON funcionará como banco de dados e será processado pelo JSON Server que expõe uma API RESTful no servidor.
+# Trabalho Prático - Semana 12
+
+Nesta atividade, você irá completar o projeto anterior permitindo cadastrar e alterar dados da entidade principal do do seu projeto a partir da estrutura criada na etapa anterior com o JSONServer. Para isso, crie uma **página de cadastro (cadastro_[ENTIDADE].html)**, que deve mostrar um formulário para cadastrar a entidade principal do projeto. OBS: Troque [ENTIDADE] pelo nome da sua entidade principal.
 
 ## Informações do trabalho
 
-- Nome: Gabriel lucas Souza de Oliveira
-- Matricula: 1596125
-- Proposta de projeto escolhida: Blog de Noticias sobre o carnaval
-- Breve descrição sobre seu projeto: Um blog sobre as principais noticias do carnaval de BH
+- Nome:Gabriel lucas Souza De Oliveira
+- Matricula: 892896
+- Proposta de projeto escolhida:Um blog sobre o carnaval 
+- Breve descrição sobre seu projeto:Um blog sobre as principais noticias do carnaval de bh
 
-**Print do teste da API com visualização do JSON**
-  
-[Teste da API JSON Server] ![alt text](image.png)
+**Print do testes da API com Postman ou similar**
 
-**Print da aba NETWORK com requisições Fetch/XHR**
-![alt text](<Captura de tela 2025-05-16 194540.png>)
+<<  COLOQUE A IMAGEM GET AQUI >>
+![alt text](<Captura de tela 2025-05-17 120805.png>)
 
- **Orientações Gerais**
+<<  COLOQUE A IMAGEM POST AQUI >>
+![alt text](<Captura de tela 2025-05-17 120838.png>)
+
+<<  COLOQUE A IMAGEM PUT AQUI >>
+![alt text](<Captura de tela 2025-05-17 120929.png>)
+
+<<  COLOQUE A IMAGEM DELETE AQUI >>
+![alt text](<Captura de tela 2025-05-17 121012.png>)
+
+**Print da aba NETWORK com requisições Fetch/XHR de POST**
+
+![alt text](image-1.png)
+
+
+## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
 
@@ -49,9 +63,9 @@ Para iniciar o JSONServer e acessar os arquivos do seu site, siga os seguintes p
 4. Execute o comando `npm start`
    Isso vai executar o JSONServer e permitir que você consiga acessar o seu site no navegador.
 5. Para testar o projeto:
-   1. **Site Front End**: abra um navegador e acesse o seu site pela seguinte URL: 
+   1. **Site Front End**: abra um navegador e acesse o seu site pela seguinte URL:
       [http://localhost:3000]()
-   2. **Site Back End**: abra o navegador e acesse as informações da estrutura de usuários por meio da API REST do JSONServer a partir da seguinte URL: 
+   2. **Site Back End**: abra o navegador e acesse as informações da estrutura de usuários por meio da API REST do JSONServer a partir da seguinte URL:
       [http://localhost:3000/usuarios](http://localhost:3000/usuarios)
 
 Ao criar suas estruturas de dados no arquivo db.json, você poderá obter estes dados através do endereço: http://localhost:3000/SUA_ESTRUTURA, tal qual como foi feito com a estrutura de usuários. **IMPORTANTE**: Ao editar o arquivo db.json, é necessário parar e reiniciar o JSONServer.
